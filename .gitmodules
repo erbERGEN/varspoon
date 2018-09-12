@@ -1,0 +1,4 @@
+[submodule "varfork"]
+	path = varfork
+	url = https://github.com/erbERGEN/varfork.git
+	branch = master
